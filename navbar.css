@@ -1,3 +1,7 @@
+*{
+    margin: auto;
+    padding: auto;
+}
 body {
 
     background-color: aquamarine;
@@ -15,6 +19,7 @@ body {
     text-align: center;
     box-shadow: 40px;
     align-items: center;
+    
 
 }
 
