@@ -1,0 +1,20 @@
+* {
+    display: flex;
+    background-color: aquamarine;
+}
+
+.navbar {
+    background-color: azure;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 30px black;
+    margin: 50px;
+    text-decoration: none;
+    color: black;
+    font-size: medium;
+    text-align: center;
+    box-shadow: 40px;
+    align-items: center;
+
+}
+
